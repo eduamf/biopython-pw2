@@ -29,6 +29,7 @@
 
 Biopython README file
 =====================
+This is a fork from Biopython Project from 1.79 version, before pairwise2 module deprecation.
 
 The Biopython Project is an international association of developers of freely
 available Python tools for computational molecular biology.
